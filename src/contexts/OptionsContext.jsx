@@ -21,9 +21,7 @@ export const OptionsContextProvider = ({ children }) => {
 		setDarkMode((prevMode) => !prevMode);
 	};
 
-	if (!apiData || !apiData[language]) {
-		return <div>Yükleniyor...</div>;
-	}
+
 
 	return (
 		<OptionsContext.Provider
