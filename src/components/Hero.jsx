@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export default function Hero() {
 	const { language, darkMode, apiData } = useContext(OptionsContext);
 	return (
-		<main className="flex flex-col lg:flex-row lg:justify-between lg:gap-0 gap-4 items-center px-4 sm:px-8 md:px-16 lg:px-28 pt-12 sm:pt-20 dark:bg-[#252128]" data-theme={darkMode ? "dark" : "light"}>
+		<main className="flex flex-col lg:flex-row lg:justify-between lg:gap-20 gap-4 items-center px-4 sm:px-8 md:px-16 lg:px-28 pt-12 sm:pt-20 dark:bg-[#252128]" data-theme={darkMode ? "dark" : "light"}>
 			<section className="hero-left w-full lg:w-1/2">
 				<div className="flex items-center space-x-4 sm:justify-center lg:justify-normal">
 					<div className="w-25 h-0.5 bg-indigo-800 dark:bg-[#BAB2E7]"></div>

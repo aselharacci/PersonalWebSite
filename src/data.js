@@ -80,8 +80,8 @@ const data = {
 			role1: "Preferred Role",
 			role2: "Frontend, UI",
 			aboutMe: "About Me",
-			aboutMeText1: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
-			aboutMeText2: "Minima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!",
+			aboutMeText1: "I'm an aspiring full-stack developer with a strong growth mindset, always eager to learn and challenge myself.After working as an account supervisor for 4 years, I realized it was time to follow my true passion: becoming a software developer.",
+			aboutMeText2: "The first step on this journey was completing a short Web Development course by Code First Girls, a UK-based organization that welcomes learners from all over the world. T o deepen my skills further, I completed a 6-months intensive full-stack development program at Workintech, where I focused on both front-end and back-end technologies, as well as core computer science fundamentals.",
 		},
 		projectsSection: {
 			title: "Projects",
